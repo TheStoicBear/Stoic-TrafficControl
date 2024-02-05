@@ -1,3 +1,6 @@
+# For Andy from NDFrammework
+# I did not make, I do not claim rights and it's Open Source.
+
 # Stoic Traffic Control Script
 ![STOIC (10)](https://github.com/TheStoicBear/Stoic-TrafficControl/assets/112611821/27d50fd9-2ae6-45c8-a4f3-556a330ef226)
 
